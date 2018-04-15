@@ -1,0 +1,53 @@
+body {
+    background-image: url("images/dust_scratches.png")
+}
+section {
+    background: #fff;
+    padding: 20px;
+}
+#pic-1 {
+    height: 200px;
+    padding: 0px;
+    background-image: url("images/pic1.jpg");
+    margin: 10px 0px;
+    text-align: center;
+    line-height: 50px;
+}
+#pic-2 {
+    height: 200px;
+    padding: 0px;
+    background-image: url("images/pic2.jpg");
+    margin: 10px 0px;
+    text-align: center;
+    line-height: 50px;
+}
+#pic-3 {
+    height: 200px;
+    padding: 0px;
+    background-image: url("images/pic3.jpg");
+    margin: 10px 0px;
+    text-align: center;
+    line-height: 50px;
+}
+#pic-4 {
+    height: 200px;
+    padding: 0px;
+    background-image: url("images/pic4.jpg");
+    margin: 10px 0px;
+    text-align: center;
+    line-height: 50px;
+}
+#pic-5 {
+    height: 200px;
+    padding: 0px;
+    background-image: url("images/pic5.jpg");
+    margin: 10px 0px;
+    text-align: center;
+    line-height: 50px;
+}
+.img-title {
+    height: 50px;
+    position: relative;
+    top: 130px;
+    background: springgreen;
+}
