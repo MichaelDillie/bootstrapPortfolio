@@ -1,9 +1,26 @@
 body {
-    background-image: url("images/dust_scratches.png")
+    background-image: url("images/dust_scratches.png");
+    font-family: 'Raleway', sans-serif;
 }
 section {
     background: #fff;
     padding: 20px;
+    margin-top: 40px;
+}
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    font-family: 'Raleway', sans-serif; 
+}
+footer.card.col-md-12 {
+   margin-top: 60px;
+   height: 60px;
+   background: #666;
+   border-radius: 0px;
 }
 #pic-1 {
     height: 200px;
@@ -12,6 +29,7 @@ section {
     margin: 10px 0px;
     text-align: center;
     line-height: 50px;
+    background-repeat: no-repeat;
 }
 #pic-2 {
     height: 200px;
@@ -20,6 +38,7 @@ section {
     margin: 10px 0px;
     text-align: center;
     line-height: 50px;
+    background-repeat: no-repeat;
 }
 #pic-3 {
     height: 200px;
@@ -28,6 +47,7 @@ section {
     margin: 10px 0px;
     text-align: center;
     line-height: 50px;
+    background-repeat: no-repeat;
 }
 #pic-4 {
     height: 200px;
@@ -36,6 +56,7 @@ section {
     margin: 10px 0px;
     text-align: center;
     line-height: 50px;
+    background-repeat: no-repeat;
 }
 #pic-5 {
     height: 200px;
@@ -44,10 +65,17 @@ section {
     margin: 10px 0px;
     text-align: center;
     line-height: 50px;
+    background-repeat: no-repeat;
 }
 .img-title {
+    color: #fff;
     height: 50px;
     position: relative;
     top: 130px;
-    background: springgreen;
+    background: #4aaaa5;
+}
+.about-img {
+    height: 200px;
+    background-image: url("images/imgHolder.jpg");
+    background-repeat: no-repeat;
 }
